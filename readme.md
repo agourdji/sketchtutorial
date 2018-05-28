@@ -1,6 +1,6 @@
 # Welcome to Le Wagon's Sketch Tutorial!
 
-Speaker: Harrison Kim
+Speaker: Audrey Gourdji
 
 What is Sketch App:
 http://blog.creativelive.com/what-is-sketchapp-and-why-you-should-be-using-it/
