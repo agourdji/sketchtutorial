@@ -10,3 +10,9 @@ http://www.sketchapp.com
 
 My Favorite Online Library of Sketch Resources:
 https://www.sketchappsources.com/
+
+Great Chinese Sketch User Manual:
+http://www.sketchcn.com/sketch-chinese-user-manual.html
+
+Free UI Design Kits:
+https://support.invisionapp.com/hc/en-us/articles/115000536363-Free-UI-design-kits
